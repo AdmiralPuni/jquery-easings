@@ -5,4 +5,5 @@ Jquery animations only have 2 easing(linear and swipe), I wanted more so I made 
 ## Sources
 
 Easing equations : https://github.com/ai/easings.net
+
 Jquery : https://github.com/jquery/jquery
